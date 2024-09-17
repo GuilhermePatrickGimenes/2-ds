@@ -1,0 +1,13 @@
+print("Boas vindas ao site!")
+
+nome = input("digite seu nome:")
+idade = input("digite sua idade")
+
+if (idade) == 17:
+    print("você foi adicionado na categoria sub-17")
+
+elif (idade) == 20:
+    print("você foi adicionado na categopria sub-20")
+
+else :(idade) == 21
+print ("você foi adicionado ao profissional")
