@@ -1,0 +1,23 @@
+print("bem vindo a consulta de produtos")
+
+while True:
+
+novo_produto = input("Digite o nome do produto")
+
+preço = float(input("Digite o preço do produto"))
+
+desconto = input("Digite o valor do desconto")
+
+pagamento preço * desconto/100
+
+print(f"O valor com desconto do produto (novo_produto) é de (pagamento)")
+
+condicional = input("Deseja adicionar um novo produto 'sim' ou 'não' ")
+
+if condicional == sim:
+
+continue
+
+else:
+
+break
